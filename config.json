@@ -1,0 +1,46 @@
+{
+    "token": "",
+    "delay": 5,
+    "statuses": [
+        {
+            "status": "Playing with Python",
+            "emoji_name": "🐍",
+            "nitro_emoji": false,
+            "activity": {
+                "type": 0,
+                "name": "Python Coding",
+                "url": ""
+            }
+        },
+        {
+            "status": "Streaming my Code",
+            "emoji_name": "📺",
+            "nitro_emoji": false,
+            "activity": {
+                "type": 1,
+                "name": "Live on Twitch",
+                "url": "https://twitch.tv/yourchannel"
+            }
+        },
+        {
+            "status": "Listening to LoFi",
+            "emoji_name": "🎧",
+            "nitro_emoji": false,
+            "activity": {
+                "type": 2,
+                "name": "LoFi Beats",
+                "url": ""
+            }
+        },
+        {
+            "status": "Watching Tutorials",
+            "emoji_name": "📚",
+            "nitro_emoji": false,
+            "activity": {
+                "type": 3,
+                "name": "YouTube",
+                "url": ""
+            }
+        }
+    ]
+}
